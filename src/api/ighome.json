@@ -1,0 +1,137 @@
+{
+    "stories": [
+      {
+        "id": "1",
+        "username": "utente1",
+        "image": "https://picsum.photos/100/100"
+      },
+      {
+        "id": "2",
+        "username": "utente2",
+        "image": "https://picsum.photos/100/100"
+      },
+      {
+        "id": "3",
+        "username": "utente3",
+        "image": "https://picsum.photos/100/100"
+      },
+      {
+        "id": "4",
+        "username": "utente4",
+        "image": "https://picsum.photos/100/100"
+      },
+      {
+        "id": "5",
+        "username": "utente5",
+        "image": "https://picsum.photos/100/100"
+      },
+      {
+        "id": "6",
+        "username": "utente6",
+        "image": "https://picsum.photos/100/100"
+      },
+      {
+        "id": "7",
+        "username": "utente7",
+        "image": "https://picsum.photos/100/100"
+      },
+      {
+        "id": "8",
+        "username": "utente8",
+        "image": "https://picsum.photos/100/100"
+      },
+      {
+        "id": "9",
+        "username": "utente9",
+        "image": "https://picsum.photos/100/100"
+      },
+      {
+        "id": "10",
+        "username": "utente10",
+        "image": "https://picsum.photos/100/100"
+      }
+    ],
+    "posts": [
+      {
+        "id": "1",
+        "username": "utente1",
+        "text": "Testo del post 1",
+        "image": "https://i.pinimg.com/736x/2d/57/54/2d575449de3e5f079dd49fb4484f20e3.jpg",
+        "likes": 50,
+        "comments": 10
+      },
+      {
+        "id": "2",
+        "username": "utente2",
+        "text": "Testo del post 2",
+        "image": "https://images.pexels.com/photos/1563356/pexels-photo-1563356.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+        "likes": 30,
+        "comments": 5
+      },
+      {
+        "id": "3",
+        "username": "utente3",
+        "text": "Testo del post 3",
+        "image": "https://images.unsplash.com/photo-1594568284297-7c64464062b1?q=80&w=1000&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NHx8bm8lMjBjb3B5cmlnaHR8ZW58MHx8MHx8fDA%3D",
+        "likes": 70,
+        "comments": 15
+      },
+      {
+        "id": "4",
+        "username": "utente4",
+        "text": "Testo del post 4",
+        "image": "https://images.pexels.com/photos/36717/amazing-animal-beautiful-beautifull.jpg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+        "likes": 20,
+        "comments": 3
+      },
+      {
+        "id": "5",
+        "username": "utente5",
+        "text": "Testo del post 5",
+        "image": "https://images.pexels.com/photos/1323550/pexels-photo-1323550.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+        "likes": 100,
+        "comments": 25
+      },
+      {
+        "id": "6",
+        "username": "utente6",
+        "text": "Testo del post 6",
+        "image": "https://i.pinimg.com/1200x/74/5c/c3/745cc3293fd05df47337ccaf8290e70a.jpg",
+        "likes": 60,
+        "comments": 12
+      },
+      {
+        "id": "7",
+        "username": "utente7",
+        "text": "Testo del post 7",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQWm4HO6jjT4v0ZQzrkc9r15hKCrV4E2v9MAg&usqp=CAU",
+        "likes": 45,
+        "comments": 8
+      },
+      {
+        "id": "8",
+        "username": "utente8",
+        "text": "Testo del post 8",
+        "image": "https://picsum.photos/500/400",
+        "likes": 80,
+        "comments": 20
+      },
+      {
+        "id": "9",
+        "username": "utente9",
+        "text": "Testo del post 9",
+        "image": "https://picsum.photos/500/400",
+        "likes": 15,
+        "comments": 2
+      },
+      {
+        "id": "10",
+        "username": "utente10",
+        "text": "Testo del post 10",
+        "image": "https://picsum.photos/500/400",
+        "likes": 90,
+        "comments": 18
+      }
+    ]
+  }
+  
